@@ -1,24 +1,10 @@
-# web-clima-vue
+<h1 align="center">Web Clima</h1>
 
-## Project setup
-```
-yarn install
-```
+<div align="center">
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+![alt text](https://github.com/Gabriel-lotto/Laborat-rio-Bem-Estar/blob/main/public/images/Front-site.PNG?raw=true)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+</div>
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<p align="center">
+ <a href="https://clima-vue-v1.netlify.app/">Visite o Site</a>
