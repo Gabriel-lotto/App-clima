@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![alt text](https://github.com/Gabriel-lotto/Laborat-rio-Bem-Estar/blob/main/public/images/Front-site.PNG?raw=true)
+![alt text](https://github.com/Gabriel-lotto/App-clima/blob/main/src/assets/Front-site.PNG?raw=true)
 
 </div>
 
